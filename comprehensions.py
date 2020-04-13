@@ -1,3 +1,4 @@
+# Comprehensions
 # A short-hand version of taking a collection (lists, dictionaries, sets), doing something to it and creating a new collection
 # Format: new_collection = [expression_evaluated_for_each_item for taco in current_collection if conditional]
 # OR *result*  = [*transform* for *item* in *iteration* if *filter*]
